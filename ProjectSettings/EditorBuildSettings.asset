@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: d28acb41d5fae6c4cb03ac163fddc928
+  - enabled: 1
+    path: Assets/Scenes/LearningScene.unity
+    guid: 2dfcc05334c0eed47b43345b1dc850cc
+  - enabled: 1
+    path: Assets/Scenes/LapakLiterasiScene.unity
+    guid: cbca35a83f148b94b8c05fcbbeeba72a
+  - enabled: 1
+    path: Assets/Scenes/LapakMatematikaScene.unity
+    guid: 12ee62d239a60744e9c09a5816318566
+  - enabled: 1
+    path: Assets/Scenes/ScanLiterasiScene.unity
+    guid: 92538833801ada94eb8a4adfcf90287e
+  - enabled: 1
+    path: Assets/Scenes/ScanMatematikaScene.unity
+    guid: 8a52c992dc9a12b479b1892e86606b21
+  - enabled: 1
+    path: Assets/Scenes/CekHasilMatematikaScene.unity
+    guid: 68dd5482618801944b0c4637a47a7bcc
+  - enabled: 1
+    path: Assets/Scenes/CekHasilLiterasiScene.unity
+    guid: af700a6c6728f7042961a4be07c9c497
+  m_configObjects: {}
