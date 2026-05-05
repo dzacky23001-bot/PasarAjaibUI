@@ -54,6 +54,6 @@ public class CekHasilMatematikaManager : MonoBehaviour
 
     public void NextLevel()
     {
-        SceneManager.LoadScene("LapakMatematikaScene");
+        SceneManager.LoadScene("ScanMatematikaScene");
     }
 }

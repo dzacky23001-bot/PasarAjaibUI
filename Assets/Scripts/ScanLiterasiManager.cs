@@ -5,7 +5,7 @@ public class ScanLiterasiManager : MonoBehaviour
 {
     public void BackToLiterasi()
     {
-        SceneManager.LoadScene("LapakLiterasiScene");
+        SceneManager.LoadScene("LearningScene");
     }
 
     public void SetScore(int benar)

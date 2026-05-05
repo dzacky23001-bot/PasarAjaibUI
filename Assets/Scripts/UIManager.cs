@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 public class UIManager : MonoBehaviour
 {
     public GameObject settingsPopup;
+    public GameObject pialaPopup;
 
     private bool isSoundOn = true;
 
@@ -39,4 +40,14 @@ public class UIManager : MonoBehaviour
     {
         SceneManager.LoadScene("LearningScene");
     }
+    public void OpenPiala()
+    {
+        pialaPopup.SetActive(true);
+    }
+
+    public void ClosePiala()
+    {
+        pialaPopup.SetActive(false);
+    }
+
 }

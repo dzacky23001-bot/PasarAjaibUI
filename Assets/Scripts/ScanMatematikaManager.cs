@@ -5,7 +5,7 @@ public class ScanMatematikaManager : MonoBehaviour
 {
     public void BackToMatematika()
     {
-        SceneManager.LoadScene("LapakMatematikaScene");
+        SceneManager.LoadScene("LearningScene");
     }
 
     public void SetScore(int benar)

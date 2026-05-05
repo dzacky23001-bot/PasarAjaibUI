@@ -52,6 +52,6 @@ public class CekHasilLiterasiManager : MonoBehaviour
 
     public void NextLevel()
     {
-        SceneManager.LoadScene("LapakLiterasiScene");
+        SceneManager.LoadScene("ScanLiterasiScene");
     }
 }

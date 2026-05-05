@@ -5,12 +5,12 @@ public class LearningManager : MonoBehaviour
 {
     public void GoToMatematika()
     {
-        SceneManager.LoadScene("LapakMatematikaScene");
+        SceneManager.LoadScene("ScanMatematikaScene");
     }
 
     public void GoToLiterasi()
     {
-        SceneManager.LoadScene("LapakLiterasiScene");
+        SceneManager.LoadScene("ScanLiterasiScene");
     }
 
     public void BackToHome()
