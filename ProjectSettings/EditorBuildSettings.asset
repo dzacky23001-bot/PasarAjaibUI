@@ -32,4 +32,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CekHasilLiterasiScene.unity
     guid: af700a6c6728f7042961a4be07c9c497
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a3317a3ed7b163c4aa082acc017ff7d5, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: be8feeda19fc06b48a8248e14a4f3729, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4f24195e0b57fb646baefcb1765933b3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f24e43c350d74134ea4dc52bd39c06c5, type: 2}
+  m_UseUCBPForAssetBundles: 0
