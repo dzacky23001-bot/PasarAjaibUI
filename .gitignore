@@ -73,3 +73,19 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Abaikan Unity AI Assistant
+Packages/com.unity.ai.assistant/
+ProjectSettings/Packages/com.unity.ai.assistant/
+
+# Abaikan file log dan temp lainnya
+.mcp.json
+log.txt
+
+# Tambahan Keamanan:
+# Abaikan folder recovery (biasanya muncul kalau Unity pernah crash)
+Assets/_Recovery/
+Assets/_Recovery.meta
+
+# Abaikan settingan Mcp / Unity Assistant
+ProjectSettings/McpUnitySettings.json
